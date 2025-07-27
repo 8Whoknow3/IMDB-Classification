@@ -2,9 +2,9 @@
 
 An end-to-end project comparing traditional machine learning approaches and deep learning models for sentiment classification on the IMDb movie reviews dataset.
 
-✅ Implements TF-IDF, Bag-of-Words, GLoVe embeddings, and neural networks (RNN, LSTM, Bidirectional LSTM)
-✅ Provides training curves, evaluation metrics, and pre-trained models
-✅ Includes reproducible Jupyter notebooks with clean visualizations
+- Implements TF-IDF, Bag-of-Words, GLoVe embeddings, and neural networks (RNN, LSTM, Bidirectional LSTM) 
+- Provides training curves, evaluation metrics, and pre-trained models
+- Includes reproducible Jupyter notebooks with clean visualizations
 
 
 ---
